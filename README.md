@@ -1,1 +1,1 @@
-# skip
+## Skip Initial Development Phase
